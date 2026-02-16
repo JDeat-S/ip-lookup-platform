@@ -43,6 +43,11 @@ builder.WebHost.ConfigureKestrel(serverOptions =>//Eliminar o comentar si se har
 });//Eliminar o comentar si se hara en on premise la prueba
 
 var app = builder.Build();
+using (var scope = app.Services.CreateScope())//Eliminar o comentar si se hara en on premise la prueba
+{//Eliminar o comentar si se hara en on premise la prueba
+    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();//Eliminar o comentar si se hara en on premise la prueba
+    db.Database.Migrate();//Eliminar o comentar si se hara en on premise la prueba
+}//Eliminar o comentar si se hara en on premise la prueba
 app.Urls.Add("http://0.0.0.0:" + Environment.GetEnvironmentVariable("PORT"));//Eliminar o comentar si se hara en on premise la prueba
 
 // Configure the HTTP request pipeline.

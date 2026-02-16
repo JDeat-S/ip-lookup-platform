@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IpLookup.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5c8d496b23355cbef3370c2c383229202e4590b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+144741ad3b8817d1dd4d8c425a6f208b35c2542e")]
 [assembly: System.Reflection.AssemblyProductAttribute("IpLookup.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IpLookup.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
