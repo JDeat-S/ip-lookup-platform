@@ -58,3 +58,6 @@ dotnet run
 
 # API externa utilizada
 https://ipwho.is
+# Despliegues en Nube
+[https://ip-lookup-platform-fjmv37mi0-jdeat-s-projects.vercel.app/](https://ip-lookup-platform-fjmv37mi0-jdeat-s-projects.vercel.app/)
+[https://ip-lookup-platform.onrender.com/api/ip](https://ip-lookup-platform.onrender.com/api/ip)
