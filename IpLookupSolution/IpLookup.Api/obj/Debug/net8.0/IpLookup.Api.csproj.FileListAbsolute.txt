@@ -295,7 +295,6 @@ F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.
 F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\staticwebassets.development.json
 F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\swae.build.ex.cache
-F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\IpLookup.02AE57DB.Up2Date
 F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\IpLookup.Api.dll
 F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\refint\IpLookup.Api.dll
