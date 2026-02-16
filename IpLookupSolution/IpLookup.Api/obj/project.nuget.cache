@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vj4TtI65RLA=",
+  "dgSpecHash": "EidANfGtmwQ=",
   "success": true,
-  "projectFilePath": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj",
+  "projectFilePath": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JDeat\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\JDeat\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

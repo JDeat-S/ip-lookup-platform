@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj": {}
+    "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj": {}
   },
   "projects": {
-    "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj": {
+    "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj",
+        "projectUniqueName": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj",
         "projectName": "IpLookup.Api",
-        "projectPath": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj",
+        "projectPath": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj",
         "packagesPath": "C:\\Users\\JDeat\\.nuget\\packages\\",
-        "outputPath": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\obj\\",
+        "outputPath": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
