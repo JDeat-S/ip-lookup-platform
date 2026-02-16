@@ -302,3 +302,6 @@ F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.
 F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\IpLookup.Api.pdb
 F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\IpLookup.Api.genruntimeconfig.cache
 F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\ref\IpLookup.Api.dll
+F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\bin\Debug\net8.0\Npgsql.dll
+F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\Repositorios\ip-lookup-platform\IpLookupSolution\IpLookup.Api\obj\Debug\net8.0\IpLookup.Api.sourcelink.json
