@@ -1,38 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\",
+  "WorkspaceRootPath": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\prueba tecnica izzi\\iplookupsolution\\iplookup.api\\services\\ipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\services\\ipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\prueba tecnica izzi\\iplookupsolution\\iplookup.api\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\prueba tecnica izzi\\iplookupsolution\\iplookup.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\prueba tecnica izzi\\iplookupsolution\\iplookup.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\services\\ipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\services\\ipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\prueba tecnica izzi\\iplookupsolution\\iplookup.api\\interfaces\\iipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\repositories\\iprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\repositories\\iprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\models\\entities\\ipquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\models\\entities\\ipquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\models\\dtos\\ipwhoisresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\models\\dtos\\ipwhoisresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\models\\dtos\\ipquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\models\\dtos\\ipquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\interfaces\\iipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\interfaces\\iipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\prueba tecnica izzi\\iplookupsolution\\iplookup.api\\interfaces\\iiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\interfaces\\iiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\interfaces\\iiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\prueba tecnica izzi\\iplookupsolution\\iplookup.api\\iplookup.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\iplookup.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\prueba tecnica izzi\\iplookupsolution\\iplookup.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|f:\\repositorios\\ip-lookup-platform\\iplookupsolution\\iplookup.api\\iplookup.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54C65C95-A782-91AF-0F2B-A359484D99E6}|IpLookup.Api\\IpLookup.Api.csproj|solutionrelative:iplookup.api\\iplookup.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,41 +58,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IpLookup.Api",
-              "DocumentMoniker": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj",
-              "RelativeDocumentMoniker": "IpLookup.Api\\IpLookup.Api.csproj",
-              "ToolTip": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj",
-              "RelativeToolTip": "IpLookup.Api\\IpLookup.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-16T15:56:07.488Z",
+              "DocumentIndex": 3,
+              "Title": "IpRepository.cs",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Repositories\\IpRepository.cs",
+              "RelativeDocumentMoniker": "IpLookup.Api\\Repositories\\IpRepository.cs",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Repositories\\IpRepository.cs",
+              "RelativeToolTip": "IpLookup.Api\\Repositories\\IpRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:57:34.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "IpQuery.cs",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Models\\Entities\\IpQuery.cs",
+              "RelativeDocumentMoniker": "IpLookup.Api\\Models\\Entities\\IpQuery.cs",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Models\\Entities\\IpQuery.cs",
+              "RelativeToolTip": "IpLookup.Api\\Models\\Entities\\IpQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:57:28.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IpWhoIsResponseDto.cs",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Models\\DTOs\\IpWhoIsResponseDto.cs",
+              "RelativeDocumentMoniker": "IpLookup.Api\\Models\\DTOs\\IpWhoIsResponseDto.cs",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Models\\DTOs\\IpWhoIsResponseDto.cs",
+              "RelativeToolTip": "IpLookup.Api\\Models\\DTOs\\IpWhoIsResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:57:22.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IpQueryDto.cs",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Models\\DTOs\\IpQueryDto.cs",
+              "RelativeDocumentMoniker": "IpLookup.Api\\Models\\DTOs\\IpQueryDto.cs",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Models\\DTOs\\IpQueryDto.cs",
+              "RelativeToolTip": "IpLookup.Api\\Models\\DTOs\\IpQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:57:11.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IpLookup.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "IpLookup.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:56:56.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IpLookup.Api.csproj",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj",
+              "RelativeDocumentMoniker": "IpLookup.Api\\IpLookup.Api.csproj",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\IpLookup.Api.csproj",
+              "RelativeToolTip": "IpLookup.Api\\IpLookup.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T15:56:07.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IpController.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\Controllers\\IpController.cs",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Controllers\\IpController.cs",
               "RelativeDocumentMoniker": "IpLookup.Api\\Controllers\\IpController.cs",
-              "ToolTip": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\Controllers\\IpController.cs",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Controllers\\IpController.cs",
               "RelativeToolTip": "IpLookup.Api\\Controllers\\IpController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T23:53:22.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IIpRepository.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\Interfaces\\IIpRepository.cs",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Interfaces\\IIpRepository.cs",
               "RelativeDocumentMoniker": "IpLookup.Api\\Interfaces\\IIpRepository.cs",
-              "ToolTip": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\Interfaces\\IIpRepository.cs",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Interfaces\\IIpRepository.cs",
               "RelativeToolTip": "IpLookup.Api\\Interfaces\\IIpRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,11 +165,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IIpService.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\Interfaces\\IIpService.cs",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Interfaces\\IIpService.cs",
               "RelativeDocumentMoniker": "IpLookup.Api\\Interfaces\\IIpService.cs",
-              "ToolTip": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\Interfaces\\IIpService.cs",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Interfaces\\IIpService.cs",
               "RelativeToolTip": "IpLookup.Api\\Interfaces\\IIpService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,54 +178,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IpService.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\Services\\IpService.cs",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Services\\IpService.cs",
               "RelativeDocumentMoniker": "IpLookup.Api\\Services\\IpService.cs",
-              "ToolTip": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\Services\\IpService.cs",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Services\\IpService.cs",
               "RelativeToolTip": "IpLookup.Api\\Services\\IpService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwCgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwCgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T23:10:14.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "IpLookup.Api\\appsettings.Development.json",
-              "ToolTip": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\appsettings.Development.json",
-              "RelativeToolTip": "IpLookup.Api\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-13T22:30:42.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\Program.cs",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Program.cs",
               "RelativeDocumentMoniker": "IpLookup.Api\\Program.cs",
-              "ToolTip": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\Program.cs",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\Program.cs",
               "RelativeToolTip": "IpLookup.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBkAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T21:34:44.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\appsettings.json",
+              "DocumentMoniker": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\appsettings.json",
               "RelativeDocumentMoniker": "IpLookup.Api\\appsettings.json",
-              "ToolTip": "F:\\Repositorios\\Prueba tecnica IZZI\\IpLookupSolution\\IpLookup.Api\\appsettings.json",
+              "ToolTip": "F:\\Repositorios\\ip-lookup-platform\\IpLookupSolution\\IpLookup.Api\\appsettings.json",
               "RelativeToolTip": "IpLookup.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-13T21:33:15.45Z"
+              "WhenOpened": "2026-02-13T21:33:15.45Z",
+              "EditorCaption": ""
             }
           ]
         }
