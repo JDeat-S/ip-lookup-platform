@@ -39,6 +39,7 @@ builder.Services.AddScoped<IIpService, IpService>();
 builder.Services.AddHttpClient();
 
 var app = builder.Build();
+app.Urls.Add("http://0.0.0.0:" + Environment.GetEnvironmentVariable("PORT"));
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
