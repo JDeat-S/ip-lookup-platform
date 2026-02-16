@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "IpLookup.Api.Controllers.IpController",
+    "Method": "QueryIp",
+    "RelativePath": "api/Ip",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ipAddress",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IpLookup.Api.Controllers.IpController",
+    "Method": "GetAll",
+    "RelativePath": "api/Ip",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IpLookup.Api.Controllers.IpController",
+    "Method": "Delete",
+    "RelativePath": "api/Ip/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
