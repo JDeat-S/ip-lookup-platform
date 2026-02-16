@@ -37,6 +37,10 @@ builder.Services.AddCors(options =>
 builder.Services.AddScoped<IIpRepository, IpRepository>();
 builder.Services.AddScoped<IIpService, IpService>();
 builder.Services.AddHttpClient();
+builder.WebHost.ConfigureKestrel(serverOptions =>//Eliminar o comentar si se hara en on premise la prueba
+{//Eliminar o comentar si se hara en on premise la prueba
+    serverOptions.ListenAnyIP(int.Parse(Environment.GetEnvironmentVariable("PORT") ?? "8080"));//Eliminar o comentar si se hara en on premise la prueba
+});//Eliminar o comentar si se hara en on premise la prueba
 
 var app = builder.Build();
 app.Urls.Add("http://0.0.0.0:" + Environment.GetEnvironmentVariable("PORT"));//Eliminar o comentar si se hara en on premise la prueba
