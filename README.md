@@ -42,7 +42,7 @@ Esto permite separación de responsabilidades y código mantenible.
 
 ---
 
-# ⚙ Cómo ejecutar el proyecto
+# Cómo ejecutar el proyecto
 
 # Backend
 
