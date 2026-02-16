@@ -4,7 +4,7 @@ import axios from "axios";
   baseURL: "https://localhost:44352/api", //Cambia el puerto o/y IP por el de tu API
 }); */
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_URL,
+  baseURL: import.meta.env.VITE_API_URL,// URL VERCEL
 });
 export const queryIp = (ip) => {
   return api.post("/ip", ip, {
